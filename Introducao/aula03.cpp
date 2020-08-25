@@ -1,6 +1,11 @@
-using namespace std;
+#include <iostream> /*biblioteca*/
 
-int main(int argc, char const *argv[]){
+using namespace std; // definição do namespace
+
+int main(){
+    
+    cout << "Hello World" << endl << "pular próxima linha" << endl;
+    cout << "Aula de C++ \n curso de c++" << endl;
 
     return 0;
 }
