@@ -20,7 +20,7 @@ int main(){
     cout << "Decremento \n";
     cout << "Antes: " << n1 << "\n";
     n1 = n1 - 1;
-    cout << "Deposi" << n1 << "\n";
+    cout << "Depois: " << n1 << "\n";
 
     return 0;
 }
