@@ -13,7 +13,7 @@ int main(){
     /*
     + soma
     - subtração
-    / divisão inteira
+    / divisão
     * multiplicação
     % resto da divisão
     () parênteses
