@@ -13,6 +13,5 @@ int main(){
         cout << "Valor de num2 MAIOR ou IGUAL que num2" << "\n";
     }
 
-
     return 0;
 }
