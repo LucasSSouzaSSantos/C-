@@ -5,10 +5,7 @@
 using namespace std;
 
 int main(){
-    cout << "Voce estar no diretório\n";
-    system("clear");
-    system("pwd");
-    system("clear");
-
+    // operadores lógicos and(&&), or(||) e not(!)
+    system("mv aula /home/lucas/Documentos/GitHub/Cpp/src/introducao_cpp");
     return 0;
 }
