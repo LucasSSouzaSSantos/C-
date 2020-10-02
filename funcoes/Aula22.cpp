@@ -5,7 +5,7 @@ using namespace std;
 // declarando as funções para serem usadas na função main
 void texto();
 void soma(int a, int b);
-int soma2(int a , int b);
+int soma2(int a, int b);
 
 int main(){
     system("clear");
