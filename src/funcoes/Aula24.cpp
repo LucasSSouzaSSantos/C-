@@ -3,7 +3,7 @@
 using namespace std;
 // Prototipar as funções
 
-void impressao(string txt = "vazio");
+void impressao(string txt = "null");
 
 int main(){
     // Omissão de Argumentos
