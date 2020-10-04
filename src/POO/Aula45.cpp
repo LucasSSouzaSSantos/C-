@@ -4,6 +4,8 @@
 using namespace std;
 
 int main(){
+    system("clear");
+    
     Aviao *av1 = new Aviao(1);
     Aviao *av2 = new Aviao(2);
     Aviao *av3 = new Aviao(3);
