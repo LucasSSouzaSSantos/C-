@@ -3,13 +3,15 @@
 
 class Aviao{
 
-    public:
-        int vel = 0;
-        int velMax;
-        std::string tipo;
-        Aviao(int tp);
+public:
+    int vel = 0;
+    int velMax;
+    std::string tipo;
+    Aviao(int tp);
+    void imprimir();
+        
     
-    private:
+private:
 
 
 };
@@ -27,5 +29,11 @@ Aviao::Aviao(int tp){
     }
 }
 
+void Aviao::imprimir(){
+    std::cout <<"Tipo................: " << tipo << std::endl;
+    std::cout <<"Velocidade máxima...: " << velMax << std::endl;
+    std::cout <<"Velocidade atual....: " << vel << std::endl;
+    std::cout << "\n" << std::endl;
+}
 
 #endif
