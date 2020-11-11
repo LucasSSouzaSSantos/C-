@@ -33,7 +33,7 @@ void Aviao::imprimir(){
     std::cout <<"Tipo................: " << tipo << std::endl;
     std::cout <<"Velocidade máxima...: " << velMax << std::endl;
     std::cout <<"Velocidade atual....: " << vel << std::endl;
-    std::cout << "\n" << std::endl;
+    std::cout <<"\n" << std::endl;
 }
 
 #endif
